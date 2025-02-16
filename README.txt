@@ -1,6 +1,3 @@
-Alunos: Laura Almeida Silveira 23.1.8100
-	Ruan Vasconcelos Salgado 23.1.8003
-
 Como executar o jogo de adivinhação
 ------------------------------------------------------------------------------------------------------------------------------------
 
